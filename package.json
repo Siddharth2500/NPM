@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Siddharth2500/Learn-NPM-Friday#readme",
   "dependencies": {
+    "@siddharth2500/friday-learning-to-package": "^1.0.1",
     "jest": "^29.5.0"
   }
 }
