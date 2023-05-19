@@ -1,0 +1,22 @@
+{
+  "name": "@siddharth2500/friday-learning-to-package",
+  "version": "1.0.1",
+  "description": "This repository is to learn NPM Packege",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siddharth2500/Learn-NPM-Friday.git"
+  },
+  "author": "siddharth raut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Siddharth2500/Learn-NPM-Friday/issues"
+  },
+  "homepage": "https://github.com/Siddharth2500/Learn-NPM-Friday#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
