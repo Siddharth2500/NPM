@@ -1,6 +1,6 @@
 {
   "name": "@siddharth2500/friday-learning-to-package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This repository is to learn NPM Packege",
   "main": "index.js",
   "scripts": {
